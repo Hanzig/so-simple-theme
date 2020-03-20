@@ -1,6 +1,10 @@
 ---
-layout: post
 title: Adopting Jekyll
+categories:
+  - tech
+tags:
+  - CMS
+  - Jekyll
 ---
 
 So I finally installed Jekyll in my local, forked a <a href="https://github.com/barryclark/jekyll-now" target="=blank">starting point</a> from GitHub, customized it and committed. It literally took me less than 30 minutes to get it up and running (I already had my blog subdomain pointing to my GitHub page, and CNAME modified there). I also had to install 3 missing gems locally, but that's no biggy. The mere fact that it was so straightforward to install and get it running, convinced me that I should look no further.

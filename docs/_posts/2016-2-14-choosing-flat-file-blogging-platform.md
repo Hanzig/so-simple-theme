@@ -1,6 +1,10 @@
 ---
-layout: post
 title: Choosing a flat-file blogging platform
+categories:
+  - tech
+tags:
+  - CMS
+  - Jekyll
 ---
 
 With all the open-source blogging platforms available nowadays, it can be an embarrassment of choices if you don't really know how you would like to organize your content, and how this will evolve with time. Many of those frameworks are strongly supported by huge communities and are very well documented. Full-fledged open-source CMS's (content management systems) such as Drupal and WordPress are very stable and reliable ones, but won't suit my needs here, as I'm looking for a databaseless platform. I need a lightweight blogging platform, with specific features (listed below), to avoid overkill and focus on content - one of the benefits of less.

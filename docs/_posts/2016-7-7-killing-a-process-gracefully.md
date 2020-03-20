@@ -1,6 +1,10 @@
 ---
-layout: post
 title: Killing a process gracefully
+categories:
+  - tech
+tags:
+  - SIGKILL
+  - SIGTERM
 ---
 
 There have been a lot of talk and discussions about whether to use ``kill -9 <pid>`` or not. I deducted that the 'safest' way to kill a process is to use *SIGTERM (15)* instead of *SIGKILL (9)*. *SIGKILL* technically terminates a process immediately, whereas *SIGTERM* requests for process termination and handles it smoothly. In other words, ``kill -9`` is more like pulling the plug while ``kill -15`` is shutting down in a proper way.

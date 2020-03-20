@@ -1,6 +1,9 @@
 ---
-layout: post
 title: Increase NPM install speed
+categories:
+  - tech
+tags:
+  - npm
 ---
 
 An interesting fact is that NPM install packages much faster when the progress bar is switched off. Note that this works with ``NPM 3.x`` as the previous versions don't have a progress bar.

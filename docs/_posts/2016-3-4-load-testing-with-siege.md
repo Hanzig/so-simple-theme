@@ -1,6 +1,10 @@
 ---
-layout: post
 title: Load testing with Siege
+categories:
+  - tech
+tags:
+  - Siege
+  - testing
 ---
 
 We <a href="/getting-started-with-siege-on-mac-os-x">previously installed Siege</a>, and we are now ready to play with it a bit. Consider the following command:

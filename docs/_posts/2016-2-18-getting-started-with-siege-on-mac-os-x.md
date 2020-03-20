@@ -1,6 +1,10 @@
 ---
-layout: post
 title: Getting started with Siege (Mac OS X)
+categories:
+  - tech
+tags:
+  - Siege
+  - testing
 ---
 
 I needed a proper tool to load test my Node.js application and do some

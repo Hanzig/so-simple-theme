@@ -1,6 +1,10 @@
 ---
-layout: post
 title: Documenting APIs with apiDoc
+categories:
+  - tech
+tags:
+  - apiDoc
+  - API
 ---
 
 When implementing a RESTful API, it is crucial to document it in details **during development**. Trying to use an un-documented API is like operating a complex device without a manual. Nowadays, there are several online platforms and softwares to assist developers with API documentation. Those work fine, indeed, but just did not suit my needs.
