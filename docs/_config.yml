@@ -18,8 +18,8 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 locale: en-US
-title: "So Simple"
-description: "A simple Jekyll theme for words and pictures."
+title: "hanz.io"
+description: "tech, music, DIY and other stuffs"
 baseurl:
 url: "https://www.hanz.io"
 logo: "/images/so-simple-site-logo.png"
@@ -39,8 +39,8 @@ google_analytics: "UA-2011187-2"
 disqus:
   shortname: "sosimpletheme"
 twitter:
-  username: "mmistakes"
-google_site_verification: "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y"
+  username: "hanzig"
+google_site_verification: ""
 
 # Liquid
 liquid:
@@ -109,31 +109,31 @@ defaults:
 
 # Site Author
 author:
-  name: Michael Rose
-  picture: /images/michael-rose-photo.jpg
+  name: Hans Govind
+  picture: /images/me.jpg
   email:
-  twitter: mmistakes
+  twitter: hanzig
   links:
     - title: Twitter
-      url: https://twitter.com/mmistakes
+      url: https://twitter.com/hanzig
       icon: fab fa-twitter-square
-    - title: Instagram
-      url: https://instagram.com/mmistakes
-      icon: fab fa-instagram
+#    - title: Instagram
+#      url: https://instagram.com/mmistakes
+#      icon: fab fa-instagram
     - title: GitHub
-      url: https://github.com/mmistakes
+      url: https://github.com/hanzig
       icon: fab fa-github-square
 
 # Footer Links
 footer_links:
   - title: Twitter
-    url: https://twitter.com/mmistakes
+    url: https://twitter.com/hanzig
     icon: fab fa-twitter-square
-  - title: Instagram
-    url: https://instagram.com/mmistakes
-    icon: fab fa-instagram
+#  - title: Instagram
+#    url: https://instagram.com/mmistakes
+#    icon: fab fa-instagram
   - title: GitHub
-    url: https://github.com/mmistakes
+    url: https://github.com/hanzig
     icon: fab fa-github-square
   - title: Feed
     url: atom.xml
