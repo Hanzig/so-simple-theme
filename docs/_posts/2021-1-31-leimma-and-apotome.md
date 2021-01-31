@@ -6,6 +6,7 @@ categories:
 tags:
   - Leimma
   - Apotome
+  - Web Audio Modules
 ---
 
 This week I discovered 2 really awesome browser-based tools called <a href="https://isartum.net/leimma" target="_blank">Leimma</a> and <a href="https://isartum.net/apotome" target="_blank">Apotome</a>, both created by <a href="https://khyamallami.com/" target="_blank">Khyam Allami</a> and <a href="https://ctpt.co/" target="_blank">Counterpoint</a>.
@@ -24,7 +25,7 @@ Apotome is, on the other hand, a browser-based generative music environment base
 * Note delay
 * Staccato and legato
 * Velocity range
-* Instrument selection. The following are available:
+* Instrument selection. Those were built <a href="https://www.webaudiomodules.org/" target="_blank">Web Audio Modules</a> web browser synthesizers. The following are available:
 	* Basic synth (Sine, Sawtooth, Triangle and Square waves)
 	* Karplus-Strong (string sythesis to simulate the sound of hammered or plucked string or some types of percussion)
 	* OBXD (bank and preset selection) - based on the Oberheim OB-X.
