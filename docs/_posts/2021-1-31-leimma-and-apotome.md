@@ -13,6 +13,10 @@ This week I discovered 2 really awesome browser-based tools called <a href="http
 
 Leimma is used to play existing tuning systems or create microtonal custom ones. It has MIDI output possibility, which means you can connect it to your instruments or DAW. It comes with lots of cool features like reference pitch, Scala import, root note selection (with frequency input in Hz), solmization and more. You can either create a custom tuning system from scratch, or use an existing one and make changes from there.
 
+<img src="/images/posts/leimma_1.png" class="align-center" alt="Leimma" width="580px">
+<img src="/images/posts/leimma_2.png" class="align-center" alt="Leimma" width="580px">
+<img src="/images/posts/leimma_3.png" class="align-center" alt="Leimma" width="580px">
+
 Apotome is, on the other hand, a browser-based generative music environment based on octave-repeating microtonal tuning systems and their subsets (scales/modes). It has a very intuitive UI, and you can create different tracks and configure them separately. Each track can hold configurations such as:
 
 * Tuning and subset with reference pitch
