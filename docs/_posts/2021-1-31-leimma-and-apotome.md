@@ -1,7 +1,6 @@
 ---
 title: Leimma and Apotome
 categories:
-  - tech
   - music
 tags:
   - Leimma
