@@ -6,8 +6,8 @@ tags:
   - Leimma
   - Apotome
   - Web Audio Modules
-	- Art
-	- Technology
+  - Art
+  - Technology
 ---
 
 This week I discovered 2 really awesome browser-based tools called <a href="https://isartum.net/leimma" alt="Leimma" target="_blank">Leimma</a> and <a href="https://isartum.net/apotome" target="_blank" alt="Apotome">Apotome</a>, both created by <a href="https://khyamallami.com/" target="_blank" alt="Khyam Allami">Khyam Allami</a> and <a href="https://ctpt.co/" target="_blank" alt="Counterpoint">Counterpoint</a>.
