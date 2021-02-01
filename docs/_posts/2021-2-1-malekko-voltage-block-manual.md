@@ -31,3 +31,5 @@ One thing which I always have trouble remembering, though, are the scales. I rec
 Voltage Block scales and the official manual (v1.5) in pdf format:
 * <a href="/pdfs/manuals-sheets/Malekko-Voltage-Block-ManualV1.5.pdf" target="_blank" alt="Malekko Voltage Block manual">Malekko-Voltage-Block-ManualV1.5.pdf</a>
 * <a href="/pdfs/manuals-sheets/Voltage-Block-Scales.pdf" target="_blank" alt="Voltage Block scales">Voltage-Block-Scales.pdf</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tpKmAGKW0Hs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
