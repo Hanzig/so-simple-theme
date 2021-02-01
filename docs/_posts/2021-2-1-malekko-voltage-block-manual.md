@@ -11,9 +11,12 @@ tags:
   - Manual
   - Cheat sheet
   - Scales
+  - Quantization
 ---
 
-I use Malekko's Voltage Block a lot in my Eurorack setup and as it comes with a lot of features, having the manual at hand is very convenient. The official manual is pretty nicely structured. Most of the features are straightforward and easy to remember once we get familiar with the module.
+I use <a href="https://malekkoheavyindustry.com/product/voltage-block/" target="_blank" alt="Malekko Voltage Block">Malekko's Voltage Block</a> a lot in my Eurorack setup and as it comes with a lot of features, having the manual at hand is very convenient. The official manual is pretty nicely structured. Most of the features are straightforward and easy to remember once we get familiar with the module.
+
+The Voltage Block is an 8 independent 16-stage CV sequencer packed with performance features and presets. It's possible to create quantized or unquantized sequences for each output, record modulation changes, tie sequences together, mute on the fly, randomize outputs, to name a few.
 
 One thing which I always have trouble remembering, though, are the scales. I recently found a very clean and detailed visual sheet of the Voltage Block's scales online. Someone kindly shared it on MuffWiggler's forum. Thank you **fourhexagons**!
 
