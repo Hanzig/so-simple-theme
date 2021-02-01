@@ -13,7 +13,7 @@ tags:
   - Scales
 ---
 
-I use Malekko's Voltage Block a lot in my Eurorack setup and as it comes with a lot of features, having the manual available is always handy. The official manual is pretty nicely structured. Most of the features are straightforward and easy to remember once we get familiar with the module.
+I use Malekko's Voltage Block a lot in my Eurorack setup and as it comes with a lot of features, having the manual at hand is very convenient. The official manual is pretty nicely structured. Most of the features are straightforward and easy to remember once we get familiar with the module.
 
 One thing which I always have trouble remembering, though, are the scales. I recently found a very clean and detailed visual sheet of the Voltage Block's scales online. Someone kindly shared it on MuffWiggler's forum. Thank you **fourhexagons**!
 
