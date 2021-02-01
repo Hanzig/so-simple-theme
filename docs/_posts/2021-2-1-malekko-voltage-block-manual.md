@@ -1,0 +1,24 @@
+---
+title: Malekko Voltage Block manual and scales sheet
+categories:
+  - music
+tags:
+  - Malekko
+  - Voltage Block
+  - Eurorack
+  - Modular synth
+  - Technology
+  - Manual
+  - Cheat sheet
+  - Scales
+---
+
+I use Malekko's Voltage Block a lot in my Eurorack setup and as it comes with a lot of features, having the manual available is always handy. The official manual is pretty nicely structured. Most of the features are straightforward and easy to remember once we get familiar with the module.
+
+One thing which I always have trouble remembering, though, are the scales. I recently found a very clean and detailed visual sheet of the Voltage Block's scales online. Someone kindly shared it on MuffWiggler's forum. Thank you **fourhexagons**!
+
+<a href="/images/posts/voltage-block-scales.png" target="_blank" alt="Voltage Block scales"><img src="/images/posts/voltage-block-scales.png" class="align-center" alt="Voltage Block scales" width="580px"></a><br>
+
+Voltage Block scales and the official manual (v1.5) in pdf format:
+* <a href="/pdfs/manuals-sheets/Malekko-Voltage-Block-ManualV1.5.pdf" target="_blank" alt="Malekko Voltage Block manual">Malekko-Voltage-Block-ManualV1.5.pdf</a>
+* <a href="/pdfs/manuals-sheets/Voltage-Block-Scales.pdf" target="_blank" alt="Voltage Block scales">Voltage-Block-Scales.pdf</a>
