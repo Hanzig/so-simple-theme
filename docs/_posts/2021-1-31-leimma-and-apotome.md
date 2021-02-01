@@ -19,8 +19,8 @@ This week I discovered 2 really awesome browser-based tools called <a href="http
 <a href="/images/posts/leimma_3.png" target="_blank" alt="Leimma"><img src="/images/posts/leimma_3.png" class="align-center" alt="Leimma" width="580px"></a><br>
 <p class="small text-center">Leimma screenshots</p>
 
-<iframe src="https://player.vimeo.com/video/503475532?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/503475532">Leimma Tutorial by Khyam Allami</a> from <a href="https://vimeo.com/ctmfestival">CTM Festival</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/503475532?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen class="align-center"></iframe>
+<p class="align-center"><a href="https://vimeo.com/503475532">Leimma Tutorial by Khyam Allami</a> from <a href="https://vimeo.com/ctmfestival">CTM Festival</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 **<a href="https://isartum.net/apotome" target="_blank" alt="Apotome">Apotome</a>** is, on the other hand, a browser-based generative music environment based on octave-repeating microtonal tuning systems and their subsets (scales/modes). It has a very intuitive UI, and you can create different tracks and configure them separately. Each track can hold configurations such as:
 
@@ -49,8 +49,8 @@ This week I discovered 2 really awesome browser-based tools called <a href="http
 <a href="/images/posts/apotome_1.png" target="_blank" alt="Apotome"><img src="/images/posts/apotome_3.png" class="align-center" alt="Apotome" width="580px"></a><br>
 <p class="small text-center">Apotome screenshots</p>
 
-<iframe src="https://player.vimeo.com/video/503451447?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/503451447">Apotome Tutorial by Khyam Allami</a> from <a href="https://vimeo.com/ctmfestival">CTM Festival</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/503451447?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen class="align-center"></iframe>
+<p class="align-center"><a href="https://vimeo.com/503451447">Apotome Tutorial by Khyam Allami</a> from <a href="https://vimeo.com/ctmfestival">CTM Festival</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Leimma and Apotome work really well together, and you can create an account to save your tuning systems and sessions. I'm really looking forward to experimenting with those and sync my Apotome sessions to my modular synths setup.
 

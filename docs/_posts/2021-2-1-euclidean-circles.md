@@ -22,4 +22,4 @@ I got it on ModularGrid's marketplace. At first it was a bit intimidating and no
 
 This nice Youtube review also helped me a lot.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bz_R4S-Ktbw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bz_R4S-Ktbw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="align-center"></iframe>
