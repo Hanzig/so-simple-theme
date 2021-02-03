@@ -35,12 +35,12 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-google_analytics: ""
+google_analytics: "G-ZEHRCBM9PN"
 disqus:
   shortname: "UA-93857516-1"
 twitter:
   username: "hanzig"
-google_site_verification: ""
+google_site_verification: "yuhf20V0-O2MszovkyZEvkhgeUE-eb6Mz2oUz4TiFuU"
 
 # Liquid
 liquid:
