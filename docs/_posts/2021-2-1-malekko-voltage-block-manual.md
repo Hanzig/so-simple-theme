@@ -20,7 +20,7 @@ The Voltage Block is an 8 independent 16-stage CV sequencer packed with performa
 
 <a href="https://amzn.to/2NW2r9z" target="_blank" alt="Malekko Voltage Block"><img src="/images/posts/malekko_voltage_block.jpg" class="align-center" alt="Malekko Voltage Block" width="372px"></a><br>
 
-It also comes in black .. :=) <br>
+It also comes in black .. :=] <br>
 
 <a href="https://amzn.to/3alt53f" target="_blank" alt="Malekko Voltage Block black"><img src="/images/posts/malekko_voltage_block_black.png" class="align-center" alt="Malekko Voltage Block black" width="372px"></a><br>
 
