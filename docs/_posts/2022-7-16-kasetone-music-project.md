@@ -17,7 +17,7 @@ I decided to go with <a href="https://distrokid.com" target="_blank" alt="Distro
 
 ### Why Kasetone?
 
-Kasetone is a word play (a mix of Estonian and English). "Kase" means something related to birch trees in Estonian, and "tone" obviously with respect to sounds.
+_Kasetone_ is a word play (a mix of Estonian and English). "_Kase_" means something related to birch trees in Estonian, and "_tone_" obviously with respect to sounds. It also sounds like "_cassette one_" ... :]
 
 <div style="width: 100%;float:left;text-align:center;margin-bottom: 15px;"><iframe style="border: 0; width: 350px; height: 442px;margin: 0 auto;" src="https://bandcamp.com/EmbeddedPlayer/track=1713875713/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://kasetone.bandcamp.com/track/high-temple">High Temple by Kasetone</a></iframe></div>
 
