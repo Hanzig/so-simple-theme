@@ -15,6 +15,10 @@ My electronic music journey started some years ago when I started toying with so
 
 I decided to go with <a href="https://distrokid.com" target="_blank" alt="DistroKid">DistroKid</a> as I read good reviews about it. Also, my own comparison with other services convinced me to pick DistroKid. The tracks are released on all popular streaming platforms, including Spotify, Apple Music, Amazon and YouTube Music. I also release them on my Bandcamp page, <a href="https://kasetone.bandcamp.com" target="_blank" alt="Kasetone music, Bandcamp">kasetone.bandcamp.com</a>.
 
-<div style="width: 100%;float:left;text-align:center;"><iframe style="border: 0; width: 350px; height: 442px;margin: 0 auto;" src="https://bandcamp.com/EmbeddedPlayer/track=1713875713/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://kasetone.bandcamp.com/track/high-temple">High Temple by Kasetone</a></iframe></div>
+### Why Kasetone?
 
-<div><iframe style="border-radius:12px; width 350px; align: center;" src="https://open.spotify.com/embed/artist/714kcjHtIIOqGK3WwSaP1U?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
+Kasetone is a word play (a mix of Estonian and English). "Kase" means something related to birch trees in Estonian, and tone obviously with respect to sounds.
+
+<div><iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/714kcjHtIIOqGK3WwSaP1U?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
+
+<div style="width: 100%;float:left;text-align:center;"><iframe style="border: 0; width: 350px; height: 442px;margin: 0 auto;" src="https://bandcamp.com/EmbeddedPlayer/track=1713875713/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://kasetone.bandcamp.com/track/high-temple">High Temple by Kasetone</a></iframe></div>
